@@ -159,8 +159,6 @@ CREATE TABLE products (
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
-
-**Your Name**
 - GitHub: https://github.com/kikidoesflutter
 - Email: oyekolaokikiolami@gmail.com
 
@@ -174,6 +172,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Made with ❤️ using Flutter**
 
-Release apk: [app-release.apk](build/app/outputs/flutter-apk/app-release.apk)
+Release apk: [app-release.apk](build%28apk%29/app-release.apk)
 App link: https://appetize.io/app/b_3daxgvxlswndtqjkkdub5l26ve
 Demo video: https://drive.google.com/file/d/1SmrRgTxpSQ7PIobwzilmrLl38UhUG1JN/view?usp=drivesdk
