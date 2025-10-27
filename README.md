@@ -162,14 +162,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - GitHub: https://github.com/kikidoesflutter
 - Email: oyekolaokikiolami@gmail.com
 
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design for UI guidelines
-- Community packages: provider, sqflite, image_picker
-
----
-
 **Made with ❤️ using Flutter**
 
 Release apk: https://github.com/kikidoesflutter/mystorekeeper/releases/download/Store/app-release.apk
